@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "ToDoList.Server\\ToDoList.Server.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,7 @@
+@ToDoList.Server_HostAddress = http://localhost:7256
+
+
+GET {{ToDoList.Server_HostAddress}}/GetRandom/
+Accept: application/json
+
+###
